@@ -14,7 +14,7 @@ author: Casey Troxler
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Posts:
+  Posts: "_posts"
   Publications: "publications"
   About Me: "aboutme"
 
