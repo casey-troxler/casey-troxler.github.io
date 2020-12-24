@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications 
-subtitle: Papers & Posters
+subtitle: 
 ---
 
 | Publication | Year| 
