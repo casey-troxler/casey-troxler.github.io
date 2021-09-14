@@ -5,7 +5,7 @@ subtitle: Melting of Lauric Acid at Suboptimal Angles
 cover-img: /assets/img/IMG_0043.JPG
 thumbnail-img: /assets/img/IMG_0043.JPG
 share-img: /assets/img/IMG_0043.JPG
-tags: [conference, presenting]
+tags: [Conference, Presenting, Melting, Experiment, Numerical]
 ---
 
 I will be presenting experimental and numerical results pertaining to the melting of Lauric Acid at suboptimal angles at the International Mechanical Engineering Congress and Exposition 2021. 
