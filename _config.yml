@@ -9,7 +9,7 @@ author: Casey Troxler
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Posts: "casey-troxler.github.io"
+#  Posts: "casey-troxler.github.io"
   Publications: "publications"
   About Me: "aboutme"
 
