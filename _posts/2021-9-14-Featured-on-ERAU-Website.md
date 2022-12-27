@@ -14,5 +14,5 @@ The Thermal Science Lab group, including myself, is working under Dr. Boetcher o
 
 [Link to article]([https://news.erau.edu/headlines/embry-riddle-researchers-report-thermal-energy-breakthrough])
 
-
+<a href="https://news.erau.edu/headlines/embry-riddle-researchers-report-thermal-energy-breakthrough">Link to article<a>
 
