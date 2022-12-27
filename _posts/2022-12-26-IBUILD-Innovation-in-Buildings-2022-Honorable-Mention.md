@@ -14,5 +14,6 @@ Isabel won full support of the award and I recieved an honorable mention.
 
 More information about the fellowship can be found here: 
 
-<a href="https://ibuildfellowship.org/">Link to fellowshipa>
-<a href="https://news.erau.edu/headlines/two-eagles-selected-for-support-from-federal-energy-efficiency-program">Link to Embry-Riddle article<a>
+<a href="https://ibuildfellowship.org/">Link to fellowship</a>
+  
+<a href="https://news.erau.edu/headlines/two-eagles-selected-for-support-from-federal-energy-efficiency-program">Link to Embry-Riddle article</a>
