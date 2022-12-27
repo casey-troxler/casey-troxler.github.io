@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IBUILD: Innovation in Buildings 2022 Honorable Mention 
+title: IBUILD Innovation in Buildings 2022 Honorable Mention
 subtitle: Recieved Honorable mention for IBUILD 2022 fellowship
 cover-img: /assets/img/IBUILD1140x250.jpg
 thumbnail-img: /assets/img/IBUILD1140x250.jpg
