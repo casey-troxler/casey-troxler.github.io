@@ -5,6 +5,8 @@ subtitle:
 ---
 
 | Publication | Year| 
+|[Mechanical and Thermal Characterization of Phase-Change Material and High-Density Polyethylene Functional Composites for Thermal Energy Storage]<br>Melissa A Messenger, Casey J Troxler, Isabel Melendez, Thomas B Freeman, Nicholas Reed, Rafael M Rodriguez, Sandra KS Boetcher<br> *Journal of Solar Energy Engineering* | 2023 |
+|[Experimental and Numerical Investigation of Lauric Acid Melting at Suboptimal Inclines](https://asmedigitalcollection.asme.org/openengineering/article/doi/10.1115/1.4056348/1156576)<br>Casey J Troxler, Thomas B Freeman, Rafael M Rodriguez, Sandra KS Boetcher<br> *ASME Open Journal of Engineering* | 2023 | 
 |[Phase change material and applications](https://patentimages.storage.googleapis.com/7d/b4/c1/0e2ee19b3d5d9c/US20220186947A1.pdf)<br>Sandra Kathleen Sparr Boetcher, Kashif Nawas, Melissa Ann Messenger, Casey Josh Troxler, Thomas Benjamin Freeman, Rafael M Rodriguez<br> *Patent Application*| 2022 |
 |[Experimental and Numerical Investigation of Lauric Acid Melting at Suboptimal Inclines](https://commons.erau.edu/cgi/viewcontent.cgi?article=1661&context=edt)<br>Casey J Troxler<br> *Embry-Riddle Masters Thesis*| 2022 | 
 |[Experimental and Numerical Investigation of Phase Change Material Melting at Suboptimal Inclines](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2021/V011T11A023/1133103)<br>Casey J Troxler, Thomas B Freeman, Rafael M Rodriguez, Sandra KS Boetcher <br> *ASME International Mechanical Engineering Congress and Exposition*| 2021 |  
