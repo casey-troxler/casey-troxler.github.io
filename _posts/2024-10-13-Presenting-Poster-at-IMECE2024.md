@@ -9,3 +9,5 @@ tags: [Conference, Presenting, Experiment, NREL]
 ---
 
 I will be presenting a poster on research done in collaboration with the National Renewable Energy Laboratory on next generation designs for Thermal Energy Storage using high surface area to volume surfaces. 
+
+![Image](assets/img/IMECE_Image.png)
