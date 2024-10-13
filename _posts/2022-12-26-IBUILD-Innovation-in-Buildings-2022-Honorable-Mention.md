@@ -5,7 +5,7 @@ subtitle: Recieved Honorable mention for IBUILD 2022 fellowship
 cover-img: /assets/img/isabel-melendez-casey-troxler.jpg
 thumbnail-img: /assets/img/isabel-melendez-casey-troxler.jpg
 share-img: /assets/img/isabel-melendez-casey-troxler.jpg
-tags: [IBUILD, DOE, erau, news]
+tags: [IBUILD, DOE, ERAU, news]
 ---
 
 Isabel Melendez, a fellow Thermal Sciences Laboratory member, and I were both part of the 2022 cohort for the IBUILD Innovation in Buildings fellowship. 
