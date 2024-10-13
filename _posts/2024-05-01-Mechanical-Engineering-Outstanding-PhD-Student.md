@@ -2,9 +2,9 @@
 layout: post
 title: Mechanical Engineering Outstanding Ph.D. Student
 subtitle: At Embry-Riddle College of Engineering Award Ceremony 
-cover-img: /assets/img/COE_Award_Image.JPG
-thumbnail-img: /assets/img/COE_Award_Image.JPG
-share-img: /assets/img/COE_Award_Image.JPG
+cover-img: /assets/img/COE_Award_Image.jpg
+thumbnail-img: /assets/img/COE_Award_Image.jpg
+share-img: /assets/img/COE_Award_Image.jpg
 tags: [Award, Embry-Riddle]
 ---
 

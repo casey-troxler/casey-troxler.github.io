@@ -10,3 +10,4 @@ tags: [NREL, DOE, erau, news, Internships]
 Myself and my brothers all chose to study at Embry-Riddle Aeronautical University. My educational career, including my internships across several industries and choice to stay at ERAU for graduate school is discussed. The choices my brothers made to come to Embry-Riddle and their own motivations are discussed. 
 
 <a href="https://news.erau.edu/headlines/triple-threat-three-brothers-on-the-path-to-success-at-embry-riddle">Link to Embry-Riddle article</a>
+
