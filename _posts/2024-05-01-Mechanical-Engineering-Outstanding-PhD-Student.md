@@ -10,4 +10,4 @@ tags: [Award, ERAU]
 
 I was the recipient of the College of Engineering, Department of Mechanical Engineering Outstanding Ph.D. Student of the year for the 2023-24 Academic Year. Pictured with Dr. Patrick Currier, the Department Chair. 
 
-![Image](assets/img/COE_Award_Image.jpg)
+![Image](/assets/img/COE_Award_Image.jpg)

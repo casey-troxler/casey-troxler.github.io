@@ -12,6 +12,6 @@ This year I had the opportunity to act as the Teaching Assistant for the Mechani
 
 Pictured below, Spencer left and Jared right, were finalists in the competition and had the opportunity to intern with the National Renewable Energy Laboratory and Oak Ridge National Laboratory respectively. I am super proud of both of them for their accomplishments and excited to work with them when they return to Embry-Riddle for graduate school next semester. 
 
-![Image](assets/img/SpencerJared.jpg)
+![Image](/assets/img/SpencerJared.jpg)
 
 <a href="https://www.jumpintostem.org/2024-final-competition-winner-embry-riddle-aeronautical-university/">Link to Jump Into STEM Project Page</a>
