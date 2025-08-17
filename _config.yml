@@ -12,7 +12,9 @@ navbar-links:
   Posts: "casey-troxler.github.io"
   Publications: "publications"
   About Me: "aboutme"
-
+  Collections: 
+    portfolio:
+      output: true
 
 # --- Logo --- #
 
