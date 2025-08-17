@@ -5,8 +5,7 @@ subtitle:
 ---
 
 | Publication | Year| 
-|[Experimental investigation of a bio-based commercial phase change material melting in an inclined rectangular enclosure](https://doi.org/10.1016/j.ijheatfluidflow.2025.109776)<br>Casey J. Troxler, Andrew J. Heiles, 
-Isabel Melendez, Sandra K.S. Boetcher<br> *International Journal of Heat and Fluid Flow*| 2025 |
+|[Experimental investigation of a bio-based commercial phase change material melting in an inclined rectangular enclosure](https://doi.org/10.1016/j.ijheatfluidflow.2025.109776)<br>Casey J. Troxler, Andrew J. Heiles, Isabel Melendez, Sandra K.S. Boetcher<br> *International Journal of Heat and Fluid Flow*| 2025 |
 |[Additive Manufacturing of Phase Change Materials and Photocurable Resin](https://patents.google.com/patent/US20250052526A1/en)<br>Sandra Kathleen Sparr Boetcher, Thomas Benjamin Freeman, Casey Josh troxler, Rafael M. Rodriguez, Isabel Melendez, Karl Benjamin Morgan<br> *Patent Application*| 2025 |
 |[Prediction of Low-Cost Thermal Energy Storage, Tube Bank Characteristics Using Analytical Models](https://events.rdmobile.com/Lists/Details/2613611)<br>Casey J Troxler, Jared Williams, Rafael Rodriguez, Sandra KS Boetcher<br> *ASHRAE Winter Conference* | 2025 |
 |[Novel method for Comparative Analysis of Numerical and Experimental Melt Front Images](https://www.jsme.or.jp/conference/PRTEC2024/program/PRTEC2024_Program_Web.htm)<br>Casey J Troxler, Sandra KS Boetcher<br> *Pacific Rim Thermal Engineering Conference* | 2024 |
